@@ -1,0 +1,24 @@
+{
+  "name": "server-lambda-utils",
+  "version": "1.0.0",
+  "description": "A collection of utility functions that will run as Lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirceaalexandru/server-lambda-utils.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirceaalexandru/server-lambda-utils/issues"
+  },
+  "homepage": "https://github.com/mirceaalexandru/server-lambda-utils#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "nodemailer": "^2.6.4",
+    "nodemailer-smtp-transport": "^2.7.2"
+  }
+}
